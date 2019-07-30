@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "623350471255",
+    "firebase_url": "https://opencvbrod.firebaseio.com",
+    "project_id": "opencvbrod",
+    "storage_bucket": "opencvbrod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623350471255:android:a501937d69baa132",
+        "android_client_info": {
+          "package_name": "com.satyendra.opencv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623350471255-hjod3k0ct825ljnvnq4brpe2vdqrjtd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satyendra.opencv",
+            "certificate_hash": "0ca823b35d8c3579a4ef4555c945e096a0bbc833"
+          }
+        },
+        {
+          "client_id": "623350471255-d16r95qks4k5ahi7slf3d2v9v1677um8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFt5XkfUOvBlJgK9v7XNUgRvbeimKK2i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623350471255-d16r95qks4k5ahi7slf3d2v9v1677um8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
