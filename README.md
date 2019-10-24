@@ -30,14 +30,14 @@
 
 
 <h2>Technology used </h2>
-<li>
-  <ul>Java 8</ul>
-  <ul>Android</ul>
-  <ul>OpenCV</ul>
-  <ul>Local Binary Pattern Algorithm image varification of each frame for genuinity </ul>
-  <ul>MD5 checksum verification </ul>
-  <ul>Firebase realtime database</ul>
- </li>
+<ul>
+  <li>Java 8</li>
+  <li>Android</li>
+  <li>OpenCV</li>
+  <li>Local Binary Pattern Algorithm image varification of each frame for genuinity </li>
+  <li>MD5 checksum verification </li>
+  <li>Firebase realtime database</li>
+ </ul>
  
  <h3>To run the app install the apk available in the repository</h3>
  
